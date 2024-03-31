@@ -34,4 +34,4 @@ jobs:
         run: |
           echo Add other actions to build,
           ps
-          killall sudo
+          killall bash
